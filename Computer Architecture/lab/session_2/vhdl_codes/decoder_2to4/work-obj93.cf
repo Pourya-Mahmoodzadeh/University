@@ -1,0 +1,4 @@
+v 4
+file . "decoder_2to4.vhd" "65ef9b9eddc4c74442b4e54c3a5e858e72e48ee1" "20251015120714.905":
+  entity decoder_2to4 at 1( 0) + 0 on 11;
+  architecture rtl of decoder_2to4 at 12( 226) + 0 on 12;

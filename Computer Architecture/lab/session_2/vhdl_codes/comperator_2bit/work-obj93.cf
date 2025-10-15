@@ -1,0 +1,4 @@
+v 4
+file . "comperator_2bit.vhd" "29b4563035ffbbdbce2a4f7c695e34dc7b189922" "20251015121602.908":
+  entity comperator_2bit at 1( 0) + 0 on 11;
+  architecture rtl of comperator_2bit at 12( 231) + 0 on 12;

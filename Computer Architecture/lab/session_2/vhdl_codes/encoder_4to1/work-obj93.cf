@@ -1,0 +1,4 @@
+v 4
+file . "encoder_4to1.vhd" "534f3b122a6675840a17d7dfe43015656d624421" "20251015114908.066":
+  entity encoder_4to1 at 1( 0) + 0 on 11;
+  architecture rtl of encoder_4to1 at 13( 254) + 0 on 12;

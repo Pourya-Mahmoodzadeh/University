@@ -2,14 +2,14 @@ library ieee;
 use ieee.std_logic_1164.all;
 use ieee.numeric_std.all;
 
-entity comperator_2bit is 
+entity comperator_1bit is 
     port(
         a, b, gt, eq, lt : in STD_LOGIC;
         a_gt_b, a_eq_b, a_lt_b : out STD_LOGIC
     );
-end entity comperator_2bit;
+end entity comperator_1bit;
 
-architecture rtl of comperator_2bit is
+architecture rtl of comperator_1bit is
     
     signal simple_lt : STD_LOGIC;
     signal simple_eq : STD_LOGIC;
